@@ -1,0 +1,19 @@
+.card{
+  
+    border: 1px solid grey;
+  }
+  .container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+  }
+  .image{
+    width: 270px;
+    height: 150px;
+  }
+  img{
+    max-height: 100%;
+    max-width: 100%;
+    width: 100%;
+  }
+  
